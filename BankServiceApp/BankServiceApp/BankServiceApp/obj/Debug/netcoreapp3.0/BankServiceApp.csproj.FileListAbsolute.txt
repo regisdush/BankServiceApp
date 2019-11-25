@@ -1,0 +1,11 @@
+C:\Users\IR~SAGE\Desktop\BankServiceApp\BankServiceApp\BankServiceApp\bin\Debug\netcoreapp3.0\BankServiceApp.exe
+C:\Users\IR~SAGE\Desktop\BankServiceApp\BankServiceApp\BankServiceApp\bin\Debug\netcoreapp3.0\BankServiceApp.deps.json
+C:\Users\IR~SAGE\Desktop\BankServiceApp\BankServiceApp\BankServiceApp\bin\Debug\netcoreapp3.0\BankServiceApp.runtimeconfig.json
+C:\Users\IR~SAGE\Desktop\BankServiceApp\BankServiceApp\BankServiceApp\bin\Debug\netcoreapp3.0\BankServiceApp.runtimeconfig.dev.json
+C:\Users\IR~SAGE\Desktop\BankServiceApp\BankServiceApp\BankServiceApp\bin\Debug\netcoreapp3.0\BankServiceApp.dll
+C:\Users\IR~SAGE\Desktop\BankServiceApp\BankServiceApp\BankServiceApp\bin\Debug\netcoreapp3.0\BankServiceApp.pdb
+C:\Users\IR~SAGE\Desktop\BankServiceApp\BankServiceApp\BankServiceApp\obj\Debug\netcoreapp3.0\BankServiceApp.csprojAssemblyReference.cache
+C:\Users\IR~SAGE\Desktop\BankServiceApp\BankServiceApp\BankServiceApp\obj\Debug\netcoreapp3.0\BankServiceApp.AssemblyInfoInputs.cache
+C:\Users\IR~SAGE\Desktop\BankServiceApp\BankServiceApp\BankServiceApp\obj\Debug\netcoreapp3.0\BankServiceApp.AssemblyInfo.cs
+C:\Users\IR~SAGE\Desktop\BankServiceApp\BankServiceApp\BankServiceApp\obj\Debug\netcoreapp3.0\BankServiceApp.dll
+C:\Users\IR~SAGE\Desktop\BankServiceApp\BankServiceApp\BankServiceApp\obj\Debug\netcoreapp3.0\BankServiceApp.pdb
